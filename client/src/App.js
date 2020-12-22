@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Join from "./Component/Join";
-import Chat from "./Component/Chat";
+import Join from "./Component/Join/Join";
+import Chat from "./Component/Chat/Chat";
 
 const App = () => (
   <Router>
@@ -11,4 +11,3 @@ const App = () => (
 );
 
 export default App;
-//33min
