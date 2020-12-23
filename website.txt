@@ -1,0 +1,5 @@
+Back-End:
+https://mern-chat-app-irad.herokuapp.com/
+
+Front-End:
+https://mern-chat-app-irad.netlify.app/
